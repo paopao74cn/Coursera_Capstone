@@ -6,5 +6,4 @@ watermark==2.0.2
 requests==2.22.0
 matplotlib==3.2.1
 folium==0.10.1
-pandas.io.json==1.0.3
 sklearn==0.22.2.post1
