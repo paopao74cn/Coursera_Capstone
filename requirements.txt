@@ -6,4 +6,4 @@ watermark==2.0.2
 requests==2.22.0
 matplotlib==3.2.1
 folium==0.10.1
-sklearn==0.22.2
+scikit-learn==0.22.2.post1
