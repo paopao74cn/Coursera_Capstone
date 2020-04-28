@@ -4,7 +4,6 @@ geopy==1.21.0
 geocoder==1.38.1
 watermark==2.0.2
 requests==2.22.0
-csv==1.0
 matplotlib==3.2.1
 folium==0.10.1
 json==2.0.9
