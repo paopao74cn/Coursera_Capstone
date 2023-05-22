@@ -3,7 +3,7 @@ numpy==1.18.2
 geopy==1.21.0
 geocoder==1.38.1
 watermark==2.0.2
-requests==2.22.0
+requests==2.31.0
 matplotlib==3.2.1
 folium==0.10.1
 scikit-learn==0.22.2.post1
